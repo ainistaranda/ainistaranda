@@ -1,10 +1,10 @@
-Hi 👋 My name is Ainis Taranda
+Hi 👋 My name is Ainis
 ==============================
 
 Software Developer
 ------------------
 
-* 🧠  I'm learning TypeScript
+* 🧠  I'm currently learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Other hobbies: mountain biking 🚵🏼 and Olympic Weightlifting 🏋🏼
 
