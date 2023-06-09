@@ -5,7 +5,7 @@ Software Developer
 ------------------
 * 🧠  I'm currently learning Python
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Other hobbies: mountain biking 🚵🏼 and Olympic Weightlifting 🏋🏼
+* ⚡  Other hobbies: mountain biking 🚵🏼 + Olympic Weightlifting 🏋🏼 + surfing 🏄🏼‍♂️
 
 ### Skills
 
