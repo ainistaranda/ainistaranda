@@ -3,7 +3,7 @@ Hi 👋 My name is Ainis
 
 Software Developer
 ------------------
-* 🧠  I'm currently learning Python
+* 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Other hobbies: mountain biking 🚵🏼 + Olympic Weightlifting 🏋🏼 + surfing 🏄🏼‍♂️
 
